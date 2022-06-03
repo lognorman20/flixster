@@ -49,7 +49,7 @@ The main challenge that was encountered when building the app was understanding 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Logan Norman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
